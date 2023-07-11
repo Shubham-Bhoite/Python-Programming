@@ -2,5 +2,6 @@
 
 ## Lessons :
 
-[First Program](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/FirstProgram.py)
-[CommentsEscapeSequence]()
+- [First Program](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/FirstProgram.py)
+
+- [CommentsEscapeSequence](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/CommentsEscapeSequence.py)
