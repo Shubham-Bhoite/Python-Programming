@@ -5,3 +5,5 @@
 - [First Program](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/FirstProgram.py)
 
 - [CommentsEscapeSequence](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/CommentsEscapeSequence.py)
+
+- [VariablesDataTypes](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/VariablesDataTypes.py)
