@@ -4,10 +4,13 @@
 
 - [First Program](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/FirstProgram.py)
 
-- [CommentsEscapeSequence](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/CommentsEscapeSequence.py)
+- [Comments Escape Sequence](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/CommentsEscapeSequence.py)
 
-- [VariablesDataTypes](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/VariablesDataTypes.py)
+- [Variables Data Types](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/VariablesDataTypes.py)
 
+- [Type Casting](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/TypeCasting.py)
+
+- [User Input](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/UserInput.py)
 
 
 
