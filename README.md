@@ -14,7 +14,7 @@
 
 - [String In Python](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/String.py)
 
-
+- [String Slicing](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/String-Slicing.py)
 
 
 
