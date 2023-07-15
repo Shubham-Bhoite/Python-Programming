@@ -18,3 +18,17 @@ elif(myInput==0):
     print("The Number is Zero")
 else:
     print("Number is Positive")
+    
+    
+#Nested if Statements
+
+num = 8
+if (num < 0):
+    print("Number is negative.")
+elif (num > 0):
+    if (num <= 10):
+        print("Number is between 1-10")
+    else:
+        print("Number is greater than 11")
+else:
+    print("Number is zero")
