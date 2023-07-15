@@ -20,7 +20,7 @@
 
 - [If Else Conditions](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/IfElse.py)
 
-
+- [Match Case Statement](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/MatchCases.py)
 
 
 
@@ -34,4 +34,4 @@
 
 - [Simple Calc-2](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/Ex1-SimpleCalculator2.py)
 
-- [Gives Timing]()
+- [Gives Timing](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/Ex2-GivesTiming.py)
