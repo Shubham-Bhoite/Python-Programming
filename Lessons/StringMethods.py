@@ -29,7 +29,7 @@ print(str1.endswith("to", 4, 10))
 
 str1 = "He's name is Dan. He is an honest man."
 print(str1.find("ishh"))
-# print(str1.index("ishh"))
+
 
 str1 = "WelcomeToTheConsole"
 print(str1.isalnum())
@@ -52,7 +52,7 @@ print(str1.istitle())
 str1 = "Python is a high level programming Language" 
 print(str1.startswith("Python"))
 
-str1 = "Python is a high level programming Language" 
+str1 = "Python is a High level Programming Language" 
 print(str1.swapcase())
 
 str1 = "His name is Rahul. Rahul is an honest man."
