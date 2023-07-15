@@ -16,7 +16,7 @@
 
 - [String Slicing](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/String-Slicing.py)
 
-
+- [String Methods](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/StringMethods.py)
 
 
 
