@@ -22,7 +22,11 @@
 
 - [Match Case Statement](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/MatchCases.py)
 
+- [Loops](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/Loops.py)
 
+- [Break Continue Statements]()
+
+- [Functions]()
 
 
 
