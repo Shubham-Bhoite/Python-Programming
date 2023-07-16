@@ -1,3 +1,4 @@
+#def ==> user defined function
 def malmulateGmean(x, y):
   mean = (x*y)/(x+y)
   print(mean)
