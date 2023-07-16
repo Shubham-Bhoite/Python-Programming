@@ -30,6 +30,13 @@
 
 - [Function Arguments](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/FunctionArguments.py)
 
+- [Lists](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/ListsInPython.py)
+
+- [Lists Methods](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/ListsMethods.py)
+
+
+
+
 
 
 ---
