@@ -24,9 +24,11 @@
 
 - [Loops](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/Loops.py)
 
-- [Break Continue Statements]()
+- [Break Continue Statements](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/BreakContinue.py)
 
-- [Functions]()
+- [Functions](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/Functions.py)
+
+- [Function Arguments](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/FunctionArguments.py)
 
 
 
