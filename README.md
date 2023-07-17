@@ -34,6 +34,7 @@
 
 - [Lists Methods](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/ListsMethods.py)
 
+- [Tuples](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/TuplesInPython.py)
 
 
 
