@@ -36,6 +36,12 @@
 
 - [Tuples](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/TuplesInPython.py)
 
+- [f-Strings](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/f-Strings.py)
+
+- [Doc String](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/docStrings.py)
+
+- [PEP8(The Zen of Python)](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/pep8.py)
+
 
 
 
