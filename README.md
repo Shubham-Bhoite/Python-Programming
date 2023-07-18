@@ -42,6 +42,12 @@
 
 - [PEP8(The Zen of Python)](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/pep8.py)
 
+- [Recursion](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/Recursion.py)
+
+- [Sets](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/Sets.py)
+
+- [Set Methods](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/SetMethods.py)
+
 
 
 
