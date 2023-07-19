@@ -50,7 +50,13 @@
 
 - [Dictionaries](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/DictionariesInPython.py)
 
+- [Else With Loop](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/ElseWithLoops.py)
 
+- [Error Handling](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/ErrorHandling.py)
+
+- [Finally Keyword](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/FinallyKeyword.py)
+
+- [Custom Error](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/CustomError.py)
 
 ---
 
@@ -61,3 +67,5 @@
 - [Simple Calc-2](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/Ex1-SimpleCalculator2.py)
 
 - [Gives Timing](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/Ex2-GivesTiming.py)
+
+- [Kaun Banega Crorepati](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/KBC.py)
