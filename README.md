@@ -48,7 +48,7 @@
 
 - [Set Methods](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/SetMethods.py)
 
-
+- [Dictionaries](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/DictionariesInPython.py)
 
 
 
