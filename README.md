@@ -66,7 +66,9 @@
 
 - [How import Works?](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/Importing.md)
 
-- [if "__ name __ " == "__ main __"](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/If__Name__and__main__.md)
+- [if __ name __  == "__ main __"](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/If__Name__and__main__.md)
+
+- [Local and Global Variable]()
 
 
 
