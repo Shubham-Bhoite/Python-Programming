@@ -72,6 +72,10 @@
 
 - [File Operations](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/FileOperations.py)
 
+- [Lambda Functions]()
+
+- [is and ==]()
+
 
 
 
