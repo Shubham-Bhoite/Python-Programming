@@ -68,7 +68,9 @@
 
 - [if __ name __  == "__ main __"](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/If__Name__and__main__.md)
 
-- [Local and Global Variable]()
+- [Local and Global Variable](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/LocalGlobal.py)
+
+
 
 
 
