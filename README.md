@@ -76,11 +76,11 @@
 
 - [is and ==](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/is%20and%20equal.py)
 
-- [Introduction of oop's]()
+- [Introduction of oop's](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/IntroOOP'S.md)
 
-- [Classes and Objects]()
+- [Classes and Objects](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/ClassesandObjects.py)
 
-- [Constructor]()
+- [Constructors](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/Constructor.py)
 
 
 
