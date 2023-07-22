@@ -82,7 +82,9 @@
 
 - [Constructors](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/Constructor.py)
 
+- [Decorators](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/Decorators.py)
 
+- [Getters and Setters](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/GettersandSetters.py)
 
 
 
@@ -104,3 +106,5 @@
 - [Gives Timing](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/Ex2-GivesTiming.py)
 
 - [Kaun Banega Crorepati](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/KBC.py)
+
+- [Snake Water Gun](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/snakegame.py)
