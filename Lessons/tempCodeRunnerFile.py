@@ -1,10 +1,2 @@
-info()
-
-
-
-a.name = "Prashant"
-a.occupation = "Blockchain Developer"
-
-
-# print(a.name, a.occupation)
-a.info()
+obj.value
+# 10
