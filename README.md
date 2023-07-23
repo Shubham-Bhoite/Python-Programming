@@ -86,7 +86,11 @@
 
 - [Getters and Setters](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/GettersandSetters.py)
 
+- [Inheritance]()
 
+- [Access Modifiers]()
+
+- [Static Methods]()
 
 
 
@@ -108,3 +112,5 @@
 - [Kaun Banega Crorepati](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/KBC.py)
 
 - [Snake Water Gun](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/snakegame.py)
+
+- [Library Class]()
