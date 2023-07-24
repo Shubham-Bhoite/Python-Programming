@@ -92,6 +92,9 @@
 
 - [Static Methods](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/Staticmethods.py)
 
+- [Instance and Class Variable]()
+
+- [Class Methods]()
 
 
 
@@ -114,3 +117,5 @@
 - [Snake Water Gun](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/snakegame.py)
 
 - [Library Class](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/books.py)
+
+- [Clutter]()
