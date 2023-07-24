@@ -92,11 +92,11 @@
 
 - [Static Methods](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/Staticmethods.py)
 
-- [Instance and Class Variable]()
+- [Instance and Class Variable](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/InstanceVsClassVariable.py)
 
-- [Class Methods]()
+- [Class Methods](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/ClassMethods.py)
 
-- [Class Methods as a Alternative Constructor]()
+- [Class Methods as a Alternative Constructor](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/ClassMethodAsAlternativeConstructor.py)
 
 
 
@@ -120,4 +120,4 @@
 
 - [Library Class](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/books.py)
 
-- [Clutter]()
+- [Clutter](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/clutter.py)
