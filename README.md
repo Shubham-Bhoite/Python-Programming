@@ -98,6 +98,13 @@
 
 - [Class Methods as a Alternative Constructor](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/ClassMethodAsAlternativeConstructor.py)
 
+- [dir, __dict__, help methods]()
+
+- [Super Keyword]()
+
+- [Dunder Methods]()
+
+- [Method Overriding]()
 
 
 
