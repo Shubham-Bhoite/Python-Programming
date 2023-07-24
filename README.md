@@ -96,6 +96,8 @@
 
 - [Class Methods]()
 
+- [Class Methods as a Alternative Constructor]()
+
 
 
 
