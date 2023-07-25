@@ -15,3 +15,7 @@ class income(funds):
 
 tally = income(200)
 print(tally.addition())
+
+
+
+
