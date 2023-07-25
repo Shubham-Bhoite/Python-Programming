@@ -106,7 +106,17 @@
 
 - [Method Overriding](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/MethodOverriding.py)
 
+- [Operator Overloading](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/OperatorOverloading.py)
 
+- [Single Inheritance](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/SingleInheritance.py)
+
+- [Multiple Inheritance](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/MultipleInheritance.py)
+
+- [Multi Level Inheritance](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/MultiLevelInheritance.py)
+
+- [Hybrid Inheritance](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/HybridInheritance.py)
+
+- [Hierarchical Inheritance](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/HierarchicalInheritance.py)
 
 
 
