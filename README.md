@@ -118,13 +118,13 @@
 
 - [Hierarchical Inheritance](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/HierarchicalInheritance.py)
 
-- [Time Module]()
+- [Time Module](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/TimeModule.py)
 
-- [Walrus Operator]()
+- [Walrus Operator](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/walrusoperator.py)
 
-- [Shutil Module]()
+- [Shutil Module](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/ShutilModule.py)
 
-- [Request Module]()
+- [Request Module](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/RequestsModule.py)
 
 
 
