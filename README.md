@@ -126,6 +126,9 @@
 
 - [Request Module](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Lessons/RequestsModule.py)
 
+- [Generator In Python]()
+
+- [Function Caching]()
 
 
 
@@ -146,3 +149,5 @@
 - [Library Class](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/books.py)
 
 - [Clutter](https://github.com/Shubham-Bhoite/Python-Programming/blob/main/Exercises/clutter.py)
+
+- [News API]()
